@@ -1,8 +1,8 @@
-### Who Am I?
+## Who Am I?
 
 I'm a recent philosophy/computer science graduate of Lewis & Clark College looking for a full-time position to put my skills to use in an impactful way. I'm a critical thinker with excruciating attention to detail, a strong work ethic, and technical abilities to match. I'm passionate about solving complex problems with analytical thinking, technological progress, ethical considerations, and collaborative teamwork. You can connect with me on Linkedin [here.](https://www.linkedin.com/in/lauren-keegan/) 
 
-## Notable Work and Accomplishments
+### Notable Work and Accomplishments
 
 - In my artificial intelligence ethics research in the summer of 2019, I investigated models of ethical decision-making procedures for AI, focusing on the intelligence of neural networks and agency of self-driving cars. The resulting research bibliography now helps form and advance L&C’s future data studies institute. I evaluated the social and legal impacts of current practices and new possibilities for ethical AI software development, sought to optimize public communication, and authored a research project on data ethics and personal privacy rights. I partnered with my philosophy advisor, [Joel Martinez,](https://college.lclark.edu/live/profiles/75-joel-martinez) and we were funded by a Student-Faculty Collaborative Research Grant from the Lewis & Clark Dean of Students' office.
 
