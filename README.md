@@ -1,35 +1,27 @@
 ## Welcome to Lauren's website!
 
-You can [connect with me on Linkedin](https://www.linkedin.com/in/lauren-keegan/) to hire me please i need a job
+You can connect with me on Linkedin [here!](https://www.linkedin.com/in/lauren-keegan/) 
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a recent philosophy/computer science graduate of Lewis & Clark College looking for a full-time position to put my skills to use in an impactful way. I'm a critical thinker with excruciating attention to detail, a strong work ethic, and technical abilities to match. I'm passionate about solving complex problems with analytical thinking, technological progress, ethical considerations, and collaborative teamwork. 
 
-```markdown
-Syntax highlighted code block
+### Cool Stuff I've Done
 
-# Header 1
-## Header 2
-### Header 3
+- In my artificial intelligence ethics research in the summer of 2019, I investigated models of ethical decision-making procedures for AI, focusing on the intelligence of neural networks and agency of self-driving cars. The resulting research bibliography now helps form and advance L&C’s future data studies institute. I evaluated the social and legal impacts of current practices and new possibilities for ethical AI software development, sought to optimize public communication, and authored a research project on data ethics and personal privacy rights. I partnered with my philosophy advisor, [Joel Martinez,](https://college.lclark.edu/live/profiles/75-joel-martinez) and we were funded by a Student-Faculty Collaborative Research Grant from the Lewis & Clark Dean of Students' office.
 
-- Bulleted
-- List
+- I presented my AI data privacy research project at Lewis & Clark's annual academic celebration, Festival of Scholars and Artists, in this [panel.](https://fosa20.watzekdi.net/panel-6-making-a-difference/)
 
-1. Numbered
-2. List
+- I was on a campus [podcast](https://soundcloud.com/user-526408925/episode-3-technology-at-lc) about technology to talk about my AI research with my advisors, Joel Martinez and [Peter Drake.](https://college.lclark.edu/live/profiles/1906-peter-drake) Our segment on AI and Machine Learning starts at 10:08.
 
-**Bold** and _Italic_ and `Code` text
+- I worked as a section editor for Lewis & Clark's student-run publication, The Pioneer Log. I served as Sports editor and Satire editor, and all my authored articles can be found [here.](https://piolog.com/author/laurenkeegan/)
 
-[Link](url) and ![Image](src)
-```
+- I was an NCAA Division III varsity Track & Field [student-athlete,](https://www.lcpioneers.com/sports/track/2019-20/bios/keegan_lauren_dfs1?view=bio) competing all 3 years at Lewis & Clark before my senior season ended early due to the pandemic.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- I'm a recipient of the [Mary Stuart Rogers Scholarship](https://www.lclark.edu/live/news/43716-rogers-scholars-luncheon) for low-income high-achieving students.
 
-### Jekyll Themes
+- I'm a [featured student](https://college.lclark.edu/live/profiles/10559-lauren-keegan/details/homepage-profiles.php) on the Lewis & Clark Office of Admissions website.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurenkeegan/laurenkeegan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- I served as a [lunch host](https://college.lclark.edu/offices/admissions/get_to_know_us/our_students/lunch_hosts/) for 3 years. I introduced prospective students to the L&C student experience, answered questions, and demonstrated examples of excellence in all facets of the college.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I made the Dean's Honors List at UC Santa Cruz in [Winter 2017](https://honors.ucsc.edu/honors-programs/deans-honors/winter-2017.html) and [Spring 2017,](https://honors.ucsc.edu/honors-programs/deans-honors/spring-2017.html) and at Lewis & Clark in [Spring 2018](https://college.lclark.edu/live/files/26827-deans-list-6518pdf) and [Spring 2020.](https://college.lclark.edu/live/files/30048-deans-list-20sppdf)
