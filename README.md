@@ -1,11 +1,13 @@
 ## Who Am I?
 
-I'm a recent philosophy/computer science graduate of Lewis & Clark College looking for a full-time position to put my skills to use in an impactful way. I'm a critical thinker with excruciating attention to detail, a strong work ethic, and technical abilities to match. I'm passionate about solving complex problems with analytical thinking, technological progress, ethical considerations, and collaborative teamwork. You can connect with me on Linkedin [here.](https://www.linkedin.com/in/lauren-keegan/) 
+I’m currently an Alumni Teaching Assistant at Lewis & Clark College, continuing my AI  and Data Ethics research that I have been conducting over the past year and a half. My position ends in late November and I'm searching for my next challenge. 
+
+I am passionate about ethics and technology, and I have a broad range of writing experience, research and analytical abilities, and programming skills. I am a fast learner and love working with people and ideas. I’m ready to put my strengths to use, and you can connect with me on Linkedin [here.](https://www.linkedin.com/in/lauren-keegan/)  
 
 ### Skills
 **Computer (Technical):** C, Java, Python, TensorFlow, Keras, Scikit-Learn, x86-64 assembly, Markdown, HTML
 
-**Computer Software:** Microsoft Office Suite, Microsoft Excel, Google Suite, Adobe InDesign CC, IntelliJ IDEA, PyCharm, Emacs
+**Computer Software:** Microsoft Office Suite, Microsoft Excel, Google Suite, Adobe InDesign CC, IntelliJ IDEA, PyCharm, Emacs, Wix
 
 **Soft Skills:** style guide use, writing, editing, research, leadership, organization skills, interpersonal communication, critical thinking, creative problem solving, attention to detail, logic, argumentation, public speaking
 
@@ -13,7 +15,11 @@ I'm a recent philosophy/computer science graduate of Lewis & Clark College looki
 
 **Languages:** Spanish (conversational)
 
+**Education:** Lewis & Clark College, Bachelor of Arts. Major in Philosophy, Minor in Computer Science
+
 ### Notable Work and Accomplishments
+
+- As an Alumni Teaching Assistant, I help facilitate a course for alumni and parents, The Moral Machine: A Humanistic Approach to AI and Big Data, which covers topics such as knowledge, privacy, and justice to understand legal, social, and political impacts of AI. I created a [course overview](https://www.eatdrinkscenicviews.com/the-moral-machine) web page and a [course resources](https://www.eatdrinkscenicviews.com/moral-machine-resources) web page using Wix website editing software. I meet weekly with Professor Joel Martinez and Office of Alumni members to determine the structure for the week's class. I plann and deliver contributions on my areas of research expertise, and answer students’ questions about the course materials.
 
 - In my artificial intelligence ethics research in the summer of 2019, I investigated models of ethical decision-making procedures for AI, focusing on the intelligence of neural networks and agency of self-driving cars. The resulting research bibliography now helps form and advance L&C’s future data studies institute. I evaluated the social and legal impacts of current practices and new possibilities for ethical AI software development, sought to optimize public communication, and authored a research project on data ethics and personal privacy rights. I partnered with my philosophy advisor, [Joel Martinez,](https://college.lclark.edu/live/profiles/75-joel-martinez) and we were funded by a Student-Faculty Collaborative Research Grant from the Lewis & Clark Dean of Students' office.
 
